@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding-top: 100px;
+  padding-left: 100px;
+  background-color: #dee5f3;
+  height: 100vh;
+  width: 100vw;
+}
